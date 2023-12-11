@@ -34,4 +34,4 @@ obj
 *.scss.ts
 
 # GitGuarding suggested (or insisted to ignore this file :D )
-.yo-rc.json
+*.yo-rc.json
