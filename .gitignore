@@ -32,6 +32,3 @@ obj
 
 # Styles Generated Code
 *.scss.ts
-
-# GitGuarding suggested (or insisted to ignore this file :D )
-*.yo-rc.json

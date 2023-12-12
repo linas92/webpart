@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "supply-department",
+    "libraryId": "a7d201a6-2821-481b-93c5-21662089cfba",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SupplyDepartment",
+    "solutionShortDescription": "SupplyDepartment description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

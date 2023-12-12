@@ -1,4 +1,4 @@
-declare interface IHelloWorldWebPartStrings {
+declare interface ISupplyDepartmentWebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
   DescriptionFieldLabel: string;
@@ -13,7 +13,7 @@ declare interface IHelloWorldWebPartStrings {
   UnknownEnvironment: string;
 }
 
-declare module 'HelloWorldWebPartStrings' {
-  const strings: IHelloWorldWebPartStrings;
+declare module 'SupplyDepartmentWebPartStrings' {
+  const strings: ISupplyDepartmentWebPartStrings;
   export = strings;
 }

@@ -1,8 +1,8 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "my-first-web-part-client-side-solution",
-    "id": "6e5a8db0-7db3-48d3-8a4d-a42733b47aef",
+    "name": "supply-department-client-side-solution",
+    "id": "a7d201a6-2821-481b-93c5-21662089cfba",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
@@ -16,10 +16,10 @@
     },
     "metadata": {
       "shortDescription": {
-        "default": "MyFirstWebPart description"
+        "default": "SupplyDepartment description"
       },
       "longDescription": {
-        "default": "MyFirstWebPart description"
+        "default": "SupplyDepartment description"
       },
       "screenshotPaths": [],
       "videoUrl": "",
@@ -27,14 +27,14 @@
     },
     "features": [
       {
-        "title": "my-first-web-part Feature",
-        "description": "The feature that activates elements of the my-first-web-part solution.",
-        "id": "fab2ce03-f012-4e8c-9400-7ce1a7e3fcec",
+        "title": "supply-department Feature",
+        "description": "The feature that activates elements of the supply-department solution.",
+        "id": "0c4ebb65-45a7-4d2e-9354-d1ffafb2ddc3",
         "version": "1.0.0.0"
       }
     ]
   },
   "paths": {
-    "zippedPackage": "solution/my-first-web-part.sppkg"
+    "zippedPackage": "solution/supply-department.sppkg"
   }
 }

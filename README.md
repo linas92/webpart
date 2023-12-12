@@ -1,4 +1,4 @@
-# my-first-web-part
+# supply-department
 
 ## Summary
 
